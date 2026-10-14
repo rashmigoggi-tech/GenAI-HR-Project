@@ -1,0 +1,6 @@
+{
+  "name": "GenAI Launchpad — Learn AI Tools by Building Real Projects",
+  "description": "Beginner-friendly academy to learn Lovable, Google AI Studio, Google Stitch, Notion, and n8n through hands-on projects, real-world recruitment workflows, an interactive AI mentor, and a guided portfolio builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
